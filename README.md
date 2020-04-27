@@ -1,2 +1,2 @@
-# fullapge1
+#fullpage1
 풀페이지 작업시안
